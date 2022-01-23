@@ -1,0 +1,27 @@
+{
+  "name": "ping-saml-decoder-aws-lambda",
+  "version": "0.0.1",
+  "description": "Ability to hit Ping Identity's SAML Decoder tool via an AWS Lambda function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akdombrowski/ping-saml-decoder-aws-lambda.git"
+  },
+  "keywords": [
+    "ping",
+    "identity",
+    "saml",
+    "decoder",
+    "aws",
+    "lambda"
+  ],
+  "author": "Anthony Dombrowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akdombrowski/ping-saml-decoder-aws-lambda/issues"
+  },
+  "homepage": "https://github.com/akdombrowski/ping-saml-decoder-aws-lambda#readme"
+}
