@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/akdombrowski/ping-saml-decoder-aws-lambda/issues"
   },
-  "homepage": "https://github.com/akdombrowski/ping-saml-decoder-aws-lambda#readme"
+  "homepage": "https://github.com/akdombrowski/ping-saml-decoder-aws-lambda#readme",
+  "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "puppeteer-core": "^13.1.1"
+  }
 }
